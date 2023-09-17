@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>qml;cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="GestionStock.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <QtUic Include="GestionStock.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtMoc Include="GestionStock.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClCompile Include="GestionStock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Accueil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuPrincipal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AjoutProduit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SuppressionProduit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ModificationProduit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListeProduit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MiseAJour.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MouvementStock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EntreeProduit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SortieProduit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ModificationSuppressionBon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="Accueil.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MenuPrincipal.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="AjoutProduit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="SuppressionProduit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ModificationProduit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ListeProduit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MiseAJour.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MouvementStock.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="EntreeProduit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="SortieProduit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ModificationSuppressionBon.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="Accueil.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="MenuPrincipal.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="AjoutProduit.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="SuppressionProduit.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ModificationProduit.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ListeProduit.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="MiseAJour.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="MouvementStock.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="EntreeProduit.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="SortieProduit.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ModificationSuppressionBon.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="connexionBD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

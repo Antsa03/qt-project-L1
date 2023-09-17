@@ -1,0 +1,49 @@
+<RCC>
+  <qresource prefix="GestionStock">
+    <file>img/masquer-le-symbole-de-linterface.png</file>
+    <file>img/mot-de-passe.png</file>
+    <file>img/utilisateur.png</file>
+  </qresource>
+  <qresource prefix="Accueil">
+    <file>img/menu-principal.png</file>
+    <file>img/stock.png</file>
+    <file>img/stocks.png</file>
+    <file>img/info.png</file>
+  </qresource>
+  <qresource prefix="MenuPrincipal">
+    <file>img/actions.png</file>
+    <file>img/ajouter-un-produit-1.png</file>
+    <file>img/bouton-supprimer.png</file>
+    <file>img/liste.png</file>
+    <file>img/modifier-les-informations.png</file>
+    <file>img/mis-a-jour.png</file>
+    <file>img/quitter.png</file>
+    <file>img/menu2.png</file>
+    <file>img/editing.png</file>
+  </qresource>
+  <qresource prefix="AjoutProduit">
+    <file>img/ajout de produit - 2.png</file>
+    <file>img/inviter.png</file>
+    <file>img/loupe.png</file>
+    <file>img/suivant.png</file>
+    <file>img/retour.png</file>
+  </qresource>
+  <qresource prefix="SuppressionProduit">
+    <file>img/Suppression de produit.png</file>
+  </qresource>
+  <qresource prefix="ModificationProduit">
+    <file>img/modification.png</file>
+  </qresource>
+  <qresource prefix="ListeProduit">
+    <file>img/liste (1).png</file>
+    <file>img/liste(2).png</file>
+  </qresource>
+  <qresource prefix="MiseAJour">
+    <file>img/exporter.png</file>
+    <file>img/importer.png</file>
+    <file>img/mise_à_jour-1.png</file>
+  </qresource>
+  <qresource prefix="MouvementStock">
+    <file>img/mouvement_stock.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="font">
+    <file>fonts/AndalanRegular-Free.ttf</file>
+    <file>fonts/Couture.ttf</file>
+    <file>fonts/FontsFree-Net-Aveny-T-WEB.ttf</file>
+    <file>fonts/James-Ariyale.ttf</file>
+  </qresource>
+</RCC>
